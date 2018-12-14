@@ -39,7 +39,7 @@ Many of us have concerns about the challenges facing future generations as our g
 * fill demand 满足需求
 
 
-*1、*There are billions of people on this planet, and many of us love to eat meat. Can the demand be filled in a sustainable, affordable way? **A bunch of** **entrepreneurs** are *not only* optimistic *but* （*also*） are working to make this happen sooner than you may think.
+*1、* There are billions of people on this planet, and many of us love to eat meat. Can the demand be filled in a sustainable, affordable way? **A bunch of** **entrepreneurs** are *not only* optimistic *but* （*also*） are working to make this happen sooner than you may think.
 
 数十亿人生活在这颗星球上，而且我们很多人都爱吃肉。这种对肉的需求能用一种可持续且并不昂贵的方式满足吗？很多企业家不仅对此很乐观，而且正在努力让这一目标尽早变成现实。
 
@@ -48,7 +48,7 @@ Many of us have concerns about the challenges facing future generations as our g
 * entrepreneur n. 企业家
 
 
-*2、*The environmental impact caused by meat consumption – waste, animal treatment, health issues and even the green house gas effects that are potentially caused by **methane** gas produced by cows – has given rise to a number of startups **looking to** fill our **voracious** demand for meat in better, more affordable and **environmentally-friendly** ways.
+*2、* The environmental impact caused by meat consumption – waste, animal treatment, health issues and even the green house gas effects that are potentially caused by **methane** gas produced by cows – has given rise to a number of startups **looking to** fill our **voracious** demand for meat in better, more affordable and **environmentally-friendly** ways.
 
 人类的肉类消费会造成环境影响，比如：畜牧业产生的各种废料，动物受到的非人道对待，健康问题，甚至是温室气体效应（该效应可能由奶牛的甲烷排放造成）；以上种种问题催生了许多初创公司，这些公司希望以更好、更实惠、更环保的方式来满足我们对肉类的巨大需求。
 
@@ -77,7 +77,7 @@ Many of us have concerns about the challenges facing future generations as our g
   environmentally-friendly society 环境友好型社会
 
 
-*3、*For example, San Francisco-based Memphis Meats is developing **cell-based** meats in its laboratories without requiring any animals. Israel’s Future Meat Technologies is doing the same by **manufacturing** fat and muscle cells that is（should be are） being tested by **chefs** in Jerusalem. All of these companies use **proprietary** processes to **harvest** cells from animals and grow them in a lab.
+*3、* For example, San Francisco-based Memphis Meats is developing **cell-based** meats in its laboratories without requiring any animals. Israel’s Future Meat Technologies is doing the same by **manufacturing** fat and muscle cells that is（should be are） being tested by **chefs** in Jerusalem. All of these companies use **proprietary** processes to **harvest** cells from animals and grow them in a lab.
 
 比如总部位于旧金山的孟菲斯肉类公司，该公司正在实验室里开发“细胞肉”，这一过程无需任何动物。以色列的未来肉类科技公司也在做类似的研究，该公司制造脂肪细胞和肌肉细胞，制作出的成品正在接受位于耶路撒冷的大厨的测试。所有这类型的公司都是通过专有的处理方法从动物身上采集细胞，并在实验室培育这些细胞。
 
@@ -97,7 +97,7 @@ Many of us have concerns about the challenges facing future generations as our g
 
 
 
-*4、*As you can imagine, there are plenty of **hurdles** facing the industry. Educating the public is a big one. Another **contentious** issue is the **labelling** of the products. Recently both the USDA and the Food and Drug Administration (FDA) announced that they will begin jointly **regulating** the new “cell-based meat” **category**.
+*4、* As you can imagine, there are plenty of **hurdles** facing the industry. Educating the public is a big one. Another **contentious** issue is the **labelling** of the products. Recently both the USDA and the Food and Drug Administration (FDA) announced that they will begin jointly **regulating** the new “cell-based meat” **category**.
 
 可想而知，这个产业面临着很多阻碍。引导公众接受这种肉就是一个巨大的挑战；另一个有争议的问题是产品的分类问题。最近美国农业部和食品药品监督管理局宣称它们会开始联合管控这种新型的“细胞肉”。
 
@@ -119,7 +119,7 @@ Many of us have concerns about the challenges facing future generations as our g
 
 
 
-*5、*Many of us have concerns about the challenges facing future generations as our global population **swells** and the earth’s natural resources **diminish**. The good news is that there are plenty of entrepreneurs around the world – like those producing lab-grown meats – who are working to solve some of these problems and **make a few bucks** in the process. Nothing wrong with that.
+*5、* Many of us have concerns about the challenges facing future generations as our global population **swells** and the earth’s natural resources **diminish**. The good news is that there are plenty of entrepreneurs around the world – like those producing lab-grown meats – who are working to solve some of these problems and **make a few bucks** in the process. Nothing wrong with that.
 
 当全球人口增多，地球自然资源减少，很多人担心未来的人类会面临的那些挑战。好消息是，全球有很多企业家正在解决其中的一些问题，并从中赚点钱，比如那些制造实验室培养肉的企业家，而这也没什么错。
 
