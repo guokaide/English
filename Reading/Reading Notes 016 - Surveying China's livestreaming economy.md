@@ -122,7 +122,7 @@ His thought-provoking film reveals a bitter irony not limited to livestreaming: 
 
 * confess v. 勉强承认，坦白；认罪
 
-* break down = fall apart 感情失控；健康垮掉
+* break down = fall apart (感情)失控；(健康)垮掉
 
 * flickering adj.闪烁的
 
