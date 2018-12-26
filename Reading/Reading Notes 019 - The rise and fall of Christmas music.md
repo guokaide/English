@@ -87,7 +87,7 @@ Britain has embraced the Christmas single: between 1974 and 1990, nine of the nu
 
   to add lustre to sth.
 
-  Gold retains its lustre for far longer  than other metals.
+  Gold retains its lustre for far longer  than other metals. （**retain** v.保留，保持，保有）
 
   Using appropriate quotations from classics will add lustre to your essay.
 
