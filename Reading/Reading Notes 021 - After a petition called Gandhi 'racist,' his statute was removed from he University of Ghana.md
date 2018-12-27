@@ -1,4 +1,4 @@
-# Reading Notes 021 - After a petition called Gandhi 'racist,' his statute was removed from he University of Ghana
+# Reading Notes 021 - After a petition called Gandhi 'racist,' his statue was removed from he University of Ghana
 
 2018-12-26
 
