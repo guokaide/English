@@ -48,13 +48,13 @@ Gandhi's Indian empowerment argument, critics said in a petition to remove the s
 
 批评者们在将雕塑移除的请愿书中称，甘地关于增强印度信心的言论里，似乎提到了英国殖民政府对待印度人“比非洲的野蛮人或者土著好一点，但也许没有”。他谈到了“半异教徒的土著人”，还说把印度人当非洲人对待会“贬低我们”。他说，非洲“源自传统部落的”土著唯一的工作就是捕猎，他们“唯一的野心就是累积一定数量的牛来买一个老婆，然后，懒惰地、赤裸地度过余生。”
 
-* empowerment n.
+* empowerment n.使更强大
 
   empower v.增强（力量，信心）使更强大
 
-  movements to empowerment individuals
+  movements to empower individuals
 
-  These movements are individual impowerment.
+  These movements are individual empowerment.
 
 * appear to be 似乎，好像 *
 
